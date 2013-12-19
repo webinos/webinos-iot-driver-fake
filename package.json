@@ -1,4 +1,4 @@
-{ "name": "webinos-driver-fake"
+{ "name": "webinos-iot-driver-fake"
 , "publishConfig": { "tag": "alpha" }
 , "description": "Arduino Drivers"
 , "keywords": [ "webinos", "fake", "driver"]
